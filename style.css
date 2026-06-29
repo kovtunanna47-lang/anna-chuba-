@@ -1,0 +1,52 @@
+/* Головний заголовок */
+h1 {
+    color: black;
+    text-align: center;
+    font-size: 42px;
+}
+
+/* Заголовки "Про мене", "Мої цілі", "Мої захоплення", "Навички" */
+h2 {
+    color: deeppink;
+    border: 3px solid hotpink;
+    border-radius: 12px;
+    padding: 10px;
+    background-color: #fff0f6;
+    display: inline-block;
+}
+
+/* Фото */
+img {
+    border: 8px solid hotpink;
+    border-radius: 15px;
+}
+
+/* Основний текст */
+p {
+    font-size: 18px;
+    color: #333333;
+}
+
+/* Списки */
+ul {
+    font-size: 18px;
+    color: #333333;
+}
+
+/* Посилання */
+a {
+    color: deeppink;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: purple;
+}
+
+/* Фон сторінки */
+body {
+    background-color: #fffafc;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
